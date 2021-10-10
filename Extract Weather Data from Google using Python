@@ -1,7 +1,7 @@
 !pip install requests
 import requests
 from bs4 import BeautifulSoup
-# taking inpur from user location
+# taking input from user location
 city = str(input("Enter City Name = "))
 
 ## creating URL
